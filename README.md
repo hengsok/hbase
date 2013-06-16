@@ -1,12 +1,12 @@
-
-  Mini Javascript Bytes Utility for HBase
+  Mini Javascript Bytes Utility for HBase 
+  
   This utility is mainly used for one way conversion from bytes to actual value representation. This is
   particularly useful in conjunction with HBase REST API.
-  http://tdiscovery.blogspot.co.uk/
  
-  Copyright (c) 2013 - Heng Sok
+ 
+  Copyright (c) 2013 - Heng Sok http://tdiscovery.blogspot.co.uk/
   Licensed under the Apache License Version 2.0 which is the same as HBase.
-   - http://www.apache.org/licenses/LICENSE-2.0
+  http://www.apache.org/licenses/LICENSE-2.0
  
   Author: Heng Sok (HS)
   Version: 0.10.0
@@ -27,8 +27,7 @@
   any risks associated with Your exercise of permissions under this License.
  
 
-
-
+======================================================================================================================
   Javascript wrapper functions for HBase REST API
   This utility provides the functions for accessing HBase REST Gateway in a variety of ways.
   Please ensure that row keys, column families and column keys are stored in String.
@@ -37,10 +36,11 @@
  
   This libary requires the Mini Javascript Bytes Utility for HBase
   
-  Copyright (c) 2013 - Heng Sok
-  http://tdiscovery.blogspot.co.uk/
-  Licensed under the Apache License Version 2.0 which is the same as HBase.
-   - http://www.apache.org/licenses/LICENSE-2.0
+  Copyright (c) 2013 - Heng Sok http://tdiscovery.blogspot.co.uk/
+  
+  Licensed under the Apache License Version 2.0 which is the same as HBase. 
+  
+  http://www.apache.org/licenses/LICENSE-2.0
  
   Author: Heng Sok (HS)
   Version: 0.10.0
